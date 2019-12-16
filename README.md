@@ -8,9 +8,10 @@ Right now, MythicDB is a work in early development. And, by early development, r
 <li>update lists</li></ul>
 
 <h2>Long-Term Goals</h2> 
-<ol><li>build website</li><br />
+<ol>
+<li>build website</li><br />
 <li>build app with the 3400+ mythical terms - searches the web for definition & synopsis, citation(s), URL(s), and modern usage (if applicable, relevant, or possible).</li><br />
 <li>connect other Excel lists (ancient & modern authors, etc.) to the appropriate citations section of the MythicDB app "display results" page.</li><br />
 <li>app needs three screens: search, display, contact.</li><br />
-<li>website needs four pages: home, downloads, contact, terms.</li></ol><br />
-<li>integrate with superblocks.org, portis.io, and Zeemz.xyz<li>
+<li>website needs four pages: home, downloads, contact, terms.</li><br />
+<li>integrate with superblocks.org, portis.io, and Zeemz.xyz</li></ol>
