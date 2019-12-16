@@ -13,3 +13,4 @@ Right now, MythicDB is a work in early development. And, by early development, r
 <li>connect other Excel lists (ancient & modern authors, etc.) to the appropriate citations section of the MythicDB app "display results" page.</li><br />
 <li>app needs three screens: search, display, contact.</li><br />
 <li>website needs four pages: home, downloads, contact, terms.</li></ol><br />
+<li>integrate with superblocks.org, portis.io, and Zeemz.xyz<li>
