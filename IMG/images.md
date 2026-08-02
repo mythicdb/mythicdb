@@ -1,0 +1,1 @@
+put images in the /IMG/ folder
