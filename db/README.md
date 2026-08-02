@@ -4,8 +4,7 @@ Welcome to the PuzzleR Party. We're collating a massive open source database of 
 
 Current TODO list:
 
-1. Move xslx files here
-2. Copy gsheet files here
-3. Transfer files into a fully functioning DB (MariaDB, noSQL, RedisDB)
-4. Create PyScrapper to read MythicDB and to call sources (wikipedia, mythology
-5. Create React app for users to access the MythicDB
+1. Move xslx files to /xslx/
+2. Transfer files into a fully functioning DB (MariaDB, noSQL, RedisDB)
+3. Create PyScrapper to read MythicDB and to call sources (wikipedia, mythology
+4. Create json readable app for users to access the MythicDB
